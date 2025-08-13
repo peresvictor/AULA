@@ -1,10 +1,10 @@
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'aula',
-        'USER': 'root',
-        'PASSWORD': '',
+        'NAME': 'peres$aula',
+        'USER': 'peres',
+        'PASSWORD': 'v831645p',
         'PORT': '3306',
-        'HOST': 'localhost',
+        'HOST': 'peres.mysql.pythonanywhere-services.com',
     }
 }
